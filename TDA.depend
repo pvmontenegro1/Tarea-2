@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1652114424 source:e:\semestre virtual\estructura de datos\proyecto code\tda\aplicativo.cpp
+	<iostream>
+	"Cproceso.cpp"
+
+1652420375 e:\semestre virtual\estructura de datos\proyecto code\tda\cproceso.cpp
+	"Cproceso.h"
+	<iostream>
+
+1652420295 e:\semestre virtual\estructura de datos\proyecto code\tda\cproceso.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
